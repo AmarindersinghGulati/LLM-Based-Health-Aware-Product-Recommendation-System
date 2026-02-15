@@ -1,5 +1,6 @@
 streamlit
-requests
 numpy
+requests
 pillow
-google-generativeai
+opencv-python-headless
+groq
