@@ -133,4 +133,4 @@ It bridges computer vision, nutrition databases, rule-based medical logic, and L
 - Multi-language support for global accessibility
 - Smart alerts for unhealthy frequent consumption
 
-##© 2023 Amarinder Singh Gulati — CUSTOMER BUYING PATTERNS BY USING FOOD PRODUCT ANALYSER.
+© 2023 Amarinder Singh Gulati — CUSTOMER BUYING PATTERNS BY USING FOOD PRODUCT ANALYSER.
