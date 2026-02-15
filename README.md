@@ -6,7 +6,7 @@ It bridges computer vision, nutrition databases, rule-based medical logic, and L
 
 ## System Workflow
 
-![System Workflow](images/Workflow.png)
+![System Workflow](images/Project_Work-flow.png)
 
 ## Features
 
