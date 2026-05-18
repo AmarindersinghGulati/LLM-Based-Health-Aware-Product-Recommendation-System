@@ -126,7 +126,7 @@ It bridges computer vision, nutrition databases, rule-based medical logic, and L
 **Step 3: Access the Application**  
 `http://localhost:8501`
 
-## 🚀 Live Deployment
+## Live Deployment
 🔗 https://llm-based-health-aware-appuct-recommendation-system-kkeutnatoa.streamlit.app/
 
 ## Feature Enhancements
